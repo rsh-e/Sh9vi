@@ -10,6 +10,9 @@ export default function Header() {
                 <p className="font-bric_grote text-center text-md">
                     you have 9 seconds to answer each math question and score a point. answer incorrectly or run out of time and you lose. score as many points as you can. good luck.
                 </p>
+                <p className="font-bric_grote text-center text-md">
+                    Can I handle a million requests?
+                </p>
             </div>
             <button></button>
         </>
